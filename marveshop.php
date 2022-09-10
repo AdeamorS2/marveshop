@@ -1,1 +1,1 @@
-Hello Clarice
+echo "Hello Clarice";
